@@ -349,7 +349,7 @@ const HomePage: React.FC<HomePageProps> = ({ setCurrentPage }) => {
         </div>
         <div className="flex items-center justify-center">
 <img
-  src="https://chat.openai.com/cdn-cgi/image/width=768,quality=80/https://files.oaiusercontent.com/file-BAPvi9CZT91o4N8BQkTQm2?semt=default"
+  src="https://img.freepik.com/fotos-gratis/cena-realista-com-cuidados-de-idosos-para-pessoas-idosas_23-2151231510.jpg?"
   alt="Cuidadora e paciente sorrindo"
   className="rounded-xl w-full max-w-md mx-auto"
 />
