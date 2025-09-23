@@ -38,6 +38,3 @@ O site foi construído com foco em **desempenho** e **responsividade**, utilizan
 - **GitHub Pages** para hospedagem  
 
 
-
-# Execute o servidor local
-npm run dev
